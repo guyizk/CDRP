@@ -2250,10 +2250,10 @@
         <mxCell id="RuPSobv66PXCHR8af2sI-40" parent="seW79TmNvXU2v0GzZCET-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" value="&amp;nbsp;CSPIR TEST-JIG" vertex="1">
           <mxGeometry height="419" width="182" x="899" y="222" as="geometry" />
         </mxCell>
-        <mxCell id="RuPSobv66PXCHR8af2sI-2" parent="seW79TmNvXU2v0GzZCET-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="CSPIR" vertex="1">
+        <mxCell id="RuPSobv66PXCHR8af2sI-2" parent="seW79TmNvXU2v0GzZCET-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;verticalAlign=bottom;fillColor=#f9f7ed;strokeColor=#36393d;" value="CSPIR" vertex="1">
           <mxGeometry height="479" width="320" x="584" y="207" as="geometry" />
         </mxCell>
-        <mxCell id="seW79TmNvXU2v0GzZCET-5" parent="seW79TmNvXU2v0GzZCET-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="MOFC" vertex="1">
+        <mxCell id="seW79TmNvXU2v0GzZCET-5" parent="seW79TmNvXU2v0GzZCET-1" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;verticalAlign=bottom;fillColor=#f9f7ed;strokeColor=#36393d;" value="MOFC" vertex="1">
           <mxGeometry height="477" width="177" x="341" y="207" as="geometry" />
         </mxCell>
         <mxCell id="seW79TmNvXU2v0GzZCET-7" parent="seW79TmNvXU2v0GzZCET-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="Channels&lt;div&gt;1-4&lt;/div&gt;" vertex="1">
